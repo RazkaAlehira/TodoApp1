@@ -7,7 +7,7 @@ import androidx.fragment.app.viewModels
 import androidx.lifecycle.Observer
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.todoapp1.ListAdapter
+import com.example.todoapp1.adapter.ListAdapter
 import com.example.todoapp1.R
 import com.example.todoapp1.viewmodel.ToDoViewModel
 import com.example.todoapp1.databinding.FragmentListBinding
